@@ -1,4 +1,4 @@
-import odd_or_even
+from odd_or_even import oddoreven
 
 print(oddoreven(4))
 print(oddoreven(5))
